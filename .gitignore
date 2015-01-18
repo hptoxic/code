@@ -1,0 +1,9 @@
+.idea/
+*.swp~
+results/*
+target/*
+*.class
+*.jar
+build/*
+out/*
+dist/*
